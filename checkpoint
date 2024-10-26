@@ -1,0 +1,2 @@
+model_checkpoint_path: ".ipynb_checkpoints"
+all_model_checkpoint_paths: ".ipynb_checkpoints"
